@@ -1,5 +1,3 @@
-# Finance-Power-BI-Dashboard-Project
-
 # 💰 Personal Finance Health Dashboard (Power BI)
 
 An interactive one-page Power BI dashboard that shows whether monthly income, spending and savings are in balance, and how healthy the overall financial position is. It combines a clean star-style data model, 25 DAX items and a single scoring measure (Financial Health Score) on top of 37 months of personal finance data (Jan 2018 to Jan 2021, amounts in ₹).
